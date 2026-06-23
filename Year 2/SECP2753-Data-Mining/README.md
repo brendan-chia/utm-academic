@@ -12,10 +12,10 @@
 - **Simplistic Tuning Limits** : We tuned our models using basic manual testing. It was challenging to find the absolute best settings for our algorithms, and we realized that relying on manual steps limited how accurate our models could ultimately become.
 
 ## Data Preprocessing using KNIME
-<img width="950" height="301" alt="image" src="https://github.com/user-attachments/assets/f93bfa1d-0375-4232-8409-3cb7d597edb0" />
+<img width="950" height="301" alt="image" src="assets/dm-proj1-1.png" />
 
 ## ROC curve for XGBoost
-<img width="772" height="576" alt="image" src="https://github.com/user-attachments/assets/b7b7df9f-3b1a-46cf-a9d2-5452a0ac6ba4" />
+<img width="772" height="576" alt="image" src="assets/dm-proj1-2.png" />
 
 - This graph is a Receiver Operating Characteristic (ROC) Curve for an XGBoost classification model. It measures how effectively the model distinguishes between two classes (predicting individuals with Diabetes vs. No Diabetes)
 

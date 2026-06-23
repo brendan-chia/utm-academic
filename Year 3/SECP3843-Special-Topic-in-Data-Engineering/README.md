@@ -22,7 +22,7 @@
 - Built and extracted dimension tables (e.g., DIM_LOCAL) from raw source data, navigating the practical challenges of mapping inconsistent source fields to a clean, unified schema.
 
 ## Multidimensional Data Model using Star Schema architecture
-<img width="1418" height="741" alt="image" src="https://github.com/user-attachments/assets/d9c77790-7e81-4c5a-a799-68d68de3959b" />
+<img width="1418" height="741" alt="image" src="assets/tutorial2.png" />
 
 
 ## Tutorial 3 
@@ -37,7 +37,7 @@
 - Achieved measurable, quantifiable improvement through systematic architectural changes — reducing the overfitting variance delta from 8.24% to 0.69% and improving testing accuracy from 69.89% to 72.42% with a - cross-entropy loss of 0.8274.
 
 ## Comparison (CNN vs New CNN)
-<img width="796" height="521" alt="image" src="https://github.com/user-attachments/assets/439d53a7-e67e-4676-890d-a455a479423e" />
+<img width="796" height="521" alt="image" src="assets/tutorial3.png" />
 
 
 ## Tutorial 4
@@ -52,4 +52,4 @@
 - This demonstrated the practical potential of AI-driven development in production-style data engineering scenarios
 
 ## AI-Generated ETL Data Pipeline Flow Canvas in Express.dev
-<img width="696" height="548" alt="image" src="https://github.com/user-attachments/assets/17ee6a23-5a81-45fe-8c83-155d904a6644" />
+<img width="696" height="548" alt="image" src="assets/tutorial4.png" />
