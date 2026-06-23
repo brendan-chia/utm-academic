@@ -11,8 +11,7 @@
   2. Reducing Databricks compute auto-termination time to avoid idle cluster costs
 
 ## End-to-End Data Pipeline showing ingestion from SQL Server to Databricks transformation
-<img width="1285" height="305" alt="image" src="https://github.com/user-attachments/assets/5894229d-1ab0-4501-a625-ecd846230cb1" />
-
+<img width="1285" height="305" alt="image" src="assets/tutorial1.png" />
 
 ## Tutorial 2 Apache Spark 
 ## What I Learned
